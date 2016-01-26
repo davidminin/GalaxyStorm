@@ -1,5 +1,5 @@
 # GalaxyStorm
-A project I made by myself in my last year of highschool. I utilized C# and the XNA (3.2) framework to create a Space Neon Rhythm Shooter. Everything you see was created by me, however, some of the images contain textures that were found online. Since XNA has been discontinued I have attached image links to give a visual for how the game looks.
+A project I made by myself in my last year of highschool. I utilized C# and the XNA (3.2) framework to create a Space Neon Rhythm Shooter. Everything you see was created by me, however, the font and some of the images contain textures were found online. Since XNA has been discontinued I have attached image links to give a visual for how the game looks.
 
 ##Screenshots and Gifs of Gameplay:
 
