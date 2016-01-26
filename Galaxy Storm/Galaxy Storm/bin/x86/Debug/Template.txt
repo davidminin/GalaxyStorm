@@ -1,0 +1,11 @@
+time //holds the time in the song the event goes off in seconds
+event //holds the type of event that occurs as a string
+
+example:
+
+3
+Spawn
+4
+Spawn
+6
+Special

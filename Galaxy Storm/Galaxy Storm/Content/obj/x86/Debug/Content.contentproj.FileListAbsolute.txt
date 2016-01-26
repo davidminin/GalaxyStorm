@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Version 0.1B\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Version 0.1C\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Version 0.2A\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Version 0.2B\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing Practice\Galaxy Storm\Version 0.2C\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programing\Galaxy Storm\Version 0.2C\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.2C\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programing\Galaxy Storm\Version 0.3A\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Galaxy Storm\Version 0.3A\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Galaxy Storm\Version 0.3B\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Galaxy Storm\Version 0.3C\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,46 @@
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Arrow2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Special Meter.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\GaussianBlur.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Pink Square2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Blue Circle.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Pop.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\SmallFont.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Particle.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Space3.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Pink Square.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Bombs.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\dot.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Purple Triangle.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Player.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Songs\EnV - Heaven.wma
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Spawn Animations.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Laser.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Space4.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\background2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Green Emerald2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\BloomExtract.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\BloomCombine.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Player Life.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Font.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Player2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Quadrant.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Space2.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Green Emerald.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Menu Bar.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Special Bar.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\background1.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Effects\Bullet.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Enemy Arrow.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Backgrounds\Space1.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Songs\EnV - Heaven.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Content\Entities\Collision Circle.xnb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Galaxy Storm.exe.manifest
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Galaxy Storm.application
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Galaxy Storm.exe
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\bin\x86\Release\Galaxy Storm.pdb
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\Galaxy Storm.exe.manifest
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\Galaxy Storm.application
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\Galaxy Storm.exe
+C:\Users\David\Desktop\Programing\Galaxy Storm\Version 0.4A\Galaxy Storm\Galaxy Storm\obj\x86\Release\Galaxy Storm.pdb
