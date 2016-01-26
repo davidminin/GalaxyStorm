@@ -15,6 +15,8 @@ Gameplay2: https://gyazo.com/ea0d4d8cb3a53eb4690613d5d2b8d39b
 
 End Screen: https://gyazo.com/6ce4271d8a16d532d116f40a6170cb1e
 
+#Highlights of the Project
+
 ##Event Manager:
 
 An event manager was created to read and manage text files containing spawn queues. A simple C# windows application program was made to take in user input to a timer which would be synced to a song. This allows for the game to play to any song and allow the user to determine its difficulty. The event manager then takes this file and translates it into in game events.
