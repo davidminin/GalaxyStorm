@@ -1,10 +1,15 @@
 # GalaxyStorm
 A project I made in my own time during my last year of highschool. I utilized C# and the XNA (3.2) framework to create a Space Neon Rhythm Shooter. Everything you see was created by me, however, the font and some of the images contain textures were found online.
 
-## Screenshots and Gifs of Gameplay:
+## Screenshots of Gameplay:
 
 ![alt text](https://i.gyazo.com/b47ba7244fcdf174c063000129f844c0.jpg)
 ![alt text](https://i.gyazo.com/fb4ab664ddbbc4f42e9b1622dce44265.png)
+![alt text](https://i.gyazo.com/53d2956a55d42a6b6a6f93d583b8d55e.png)
+![alt text](https://i.gyazo.com/704cecb29a2f4d1d2d5b8d6c19e79b74.png)
+![alt text](https://i.gyazo.com/6ce4271d8a16d532d116f40a6170cb1e.jpg)
+
+### Gifs
 
 Song Select: https://gyazo.com/6e54c2cd72aa976d8336819f7f87caa1
 
@@ -14,7 +19,6 @@ Gameplay1: https://gyazo.com/e8f8f49f7f09b112cc82f1a673564d4f
 
 Gameplay2: https://gyazo.com/ea0d4d8cb3a53eb4690613d5d2b8d39b
 
-![alt text](https://i.gyazo.com/6ce4271d8a16d532d116f40a6170cb1e.jpg)
 
 # Highlights of the Project
 
