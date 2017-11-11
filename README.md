@@ -5,20 +5,19 @@ This was my first time fully completing a personal coding project and so my codi
 
 ## Screenshots and Gifs of Gameplay:
 
-Start Screen: ![alt text](https://i.gyazo.com/b47ba7244fcdf174c063000129f844c0.jpg)
+![alt text](https://i.gyazo.com/b47ba7244fcdf174c063000129f844c0.jpg)
+![alt text](https://i.gyazo.com/fb4ab664ddbbc4f42e9b1622dce44265.png)
+![alt text](https://gyazo.com/6ce4271d8a16d532d116f40a6170cb1e)
 
-Song Select: ![alt text](https://i.gyazo.com/6e54c2cd72aa976d8336819f7f87caa1.mp4)
+Song Select: https://gyazo.com/6e54c2cd72aa976d8336819f7f87caa1
 
-Instructions: ![alt text](https://gyazo.com/fb4ab664ddbbc4f42e9b1622dce44265) 
+Instructions: https://gyazo.com/fb4ab664ddbbc4f42e9b1622dce44265
 
-Gameplay1: ![alt text](https://gyazo.com/e8f8f49f7f09b112cc82f1a673564d4f) 
+Gameplay1: https://gyazo.com/e8f8f49f7f09b112cc82f1a673564d4f 
 
-Gameplay2: ![alt text](https://gyazo.com/ea0d4d8cb3a53eb4690613d5d2b8d39b) 
+Gameplay2: https://gyazo.com/ea0d4d8cb3a53eb4690613d5d2b8d39b
 
-End Screen: ![alt text](https://gyazo.com/6ce4271d8a16d532d116f40a6170cb1e) 
-
-#Highlights of the Project
-
+# Highlights of the Project
 
 ## Ai and Swarms:
 To make the game exciting there needed to be several types of AI. Every AI extends the Entitiy class and is handled by the AiManager. The Ai manager is responsible of updating AI and combining them into swarms when they collide. A swarm is simply a collection of the same AI that stay clumped up (look at images for a visual). They share a center of mass and have share movement. They were made as a design decision to significantly reduce the amount of computation needed to update every AI. This was a particularly interesting problem since it solved a technical issue in addition to making the game more interesting!
