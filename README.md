@@ -5,9 +5,9 @@ This was my first time fully completing a personal coding project and so my codi
 
 ## Screenshots and Gifs of Gameplay:
 
-Start Screen: ![alt text](https://gyazo.com/b47ba7244fcdf174c063000129f844c0)
+Start Screen: ![alt text](https://i.gyazo.com/b47ba7244fcdf174c063000129f844c0.jpg)
 
-Song Select: ![alt text](https://gyazo.com/6e54c2cd72aa976d8336819f7f87caa1)
+Song Select: ![alt text](https://i.gyazo.com/6e54c2cd72aa976d8336819f7f87caa1.mp4)
 
 Instructions: ![alt text](https://gyazo.com/fb4ab664ddbbc4f42e9b1622dce44265) 
 
